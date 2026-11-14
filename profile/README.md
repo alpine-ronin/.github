@@ -22,7 +22,6 @@ deterministic, local, and working with any MCP client (Claude Code, Codex, Curso
 |---|---|
 | [**Airlock**](https://github.com/Alpine-Ronin/airlock) | Every agent command passes through it. An MCP server that lets any agent run shell commands on your machine, without trusting the agent with your machine. |
 | [**phpgraph**](https://github.com/Alpine-Ronin/phpgraph) | A knowledge graph of your PHP codebase, for AI coding agents. Static analysis over MCP: no LLM, no network, no embeddings, deterministic facts with a confidence level each. |
-| **Architecture guardrails** *(coming soon)* | An MCP server that holds agents to your architecture: layers, boundaries and dependency rules checked before the change lands, not in review. |
 
 ## Principles
 
